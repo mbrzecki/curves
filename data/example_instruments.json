@@ -1,0 +1,31 @@
+{
+    "Holidays": ["pln"],
+    "Date": "2018-06-20",
+    "SpotLag": 2,
+    "DayRollingConvention": "ModFollowing",
+    "Deposit": {
+        "YF": "ACT365",
+        "Compounding": "Simple",
+        "Quotes": {
+            "ON": 0.0487,
+            "TN": 0.0487,
+            "1W": 0.0483,
+            "2W": 0.0485,
+            "1M": 0.0491,
+            "2M": 0.0494,
+            "3M": 0.0513,
+            "6M": 0.0514
+        }
+    },
+    "FRA": {
+        "YF": "ACT365",
+        "Compounding": "Simple",
+        "Quotes": {
+            "1x7": 0.05115,
+            "2x8": 0.05105,
+            "3x9": 0.0508,
+            "6x12": 0.04865,
+            "12x18": 0.04415
+        }
+    }
+}
